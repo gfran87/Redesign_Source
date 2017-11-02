@@ -27,7 +27,6 @@ body, html {
 
 .img {
   position: relative;
-
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,5 +104,4 @@ h3 {
   color: white;
 }
 
-
-/* SOCIAL */
+/*SOCIAL MEDIA BUTTONS*/
