@@ -105,3 +105,13 @@ h3 {
 }
 
 /*SOCIAL MEDIA BUTTONS*/
+
+.orbit {
+  padding-top: -20px;
+}
+
+#logo {
+    display: block;
+    margin: auto;
+    padding-top: 150px;
+}
