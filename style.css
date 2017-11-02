@@ -73,34 +73,37 @@ h3 {
 
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  font-size: 50px;
+  width: 70px;
   text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
+  margin: 3px 2px;
+    opacity: 0.7
 }
 
 .fa:hover {
-    opacity: 0.7;
+  color: white
+    opacity: 100%;
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: ;
   color: white;
 }
 
 .fa-twitter {
-  background: #55ACEE;
+  background: ;
   color: white;
 }
 
 .fa-instagram {
-  background: #125688;
+  background: ;
   color: white;
 }
 
 .fa-tumblr {
-  background: #2c4762;
+
+  background: ;
   color: white;
 }
 
