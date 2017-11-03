@@ -107,7 +107,6 @@ body, html {
 	text-decoration: none;;
 }
 
-
 /* Footer Right */
 
 .footer-distributed .footer-right{
@@ -188,7 +187,6 @@ body, html {
   background-image: url("burgerbackground.jpg");
   min-height: 100%;
   margin: auto;
-
 }
 
 .logo.png {
@@ -296,8 +294,6 @@ div#iframe-wrapper {
   position: fixed;
   color: black;
 }
-
-
 
 .top-bar {
   background-color: black;
