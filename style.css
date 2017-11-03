@@ -282,17 +282,101 @@ div#iframe-wrapper {
 }
 /*SOCIAL MEDIA BUTTONS*/
 
-.orbit {
-  padding-top: -20px;
-}
-
 #logo {
     display: block;
     margin: auto;
     padding-top: 150px;
 }
 
-.map{
-  position:relative;
-  lowe
+/*Social Media Buttons END*/
+
+/*Start Navigation*/
+.nav-large-12 {
+  width: 100%;
+  position: fixed;
+  color: black;
 }
+
+
+
+.top-bar {
+  background-color: black;
+}
+
+.title-bar-title h3 {
+  color: white;
+  background-color: black;
+  padding-right: 60px;
+  padding-left: 40px;
+}
+
+.top-bar-right a {
+  color: white;
+}
+
+.topbar-center-logo {
+  background: black;
+}
+
+.topbar-center-logo .menu {
+  background: black;
+}
+
+.topbar-center-logo .menu a {
+  color: white;
+}
+
+.topbar-center-logo .top-bar-center {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .topbar-center-logo .top-bar-center {
+    display: none;
+  }
+}
+
+.topbar-center-logo-mobile {
+  background: black;
+}
+
+.topbar-center-logo-mobile .menu-icon {
+  vertical-align: text-top;
+}
+
+
+/*.title-bar-title h3 {
+  color: white;
+  padding-right: 60px;
+  padding-left: 40px;
+}
+
+.top-bar-right a  {
+  color: white;
+}
+
+.grid-x, .grid-margin-x {
+  background-color: black;
+}
+
+.grid-container {
+  max-width: inherit;
+  z-index: 5;
+  position: fixed;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .topbar-center-logo .top-bar-center {
+    display: none;
+  }
+}
+
+
+.topbar-center-logo-mobile .menu-icon {
+  vertical-align: text-top;
+}*/
+
+
+/*End Navigation*/
