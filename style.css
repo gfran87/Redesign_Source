@@ -3,7 +3,7 @@ body, html {
   margin: 0;
   font: 400 20px/1.8 "Lato", sans-serif;
   color: #777;
-  
+
 }
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
@@ -19,6 +19,7 @@ body, html {
   background-image: url("burgerbackground.jpg");
   min-height: 100%;
   margin: auto;
+
 }
 
 .logo.png {
