@@ -206,7 +206,7 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("BurgerBackground.jpg");
+  background-image: url("images/background.jpg");
   min-height: 100%;
   margin: auto;
 }
