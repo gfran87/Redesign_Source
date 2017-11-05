@@ -293,6 +293,7 @@ div#iframe-wrapper {
   width: 100%;
   position: fixed;
   color: black;
+  z-index: 10;
 }
 
 .top-bar {
