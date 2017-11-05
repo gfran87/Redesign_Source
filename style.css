@@ -3,8 +3,30 @@ body, html {
   margin: 0;
   font: 400 20px/1.8 "Lato", sans-serif;
   color: #777;
-
 }
+
+.caption-index {
+  margin-top: 10px;
+  padding-bottom: 100px;
+}
+.caption-index h1 {
+  text-align: center;
+  text-shadow: black 0 0 0.35em;
+  color: white;
+}
+.caption-index h3 {
+  text-align: center;
+  text-shadow: black 0 0 0.35em;
+  color: white;
+}
+.caption-index p {
+  text-align: center;
+  text-shadow: black 0 0 0.35em;
+  color: white;
+}
+
+
+
 .footer-distributed{
 	background-color: #292c2f;
 	box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.12);
@@ -342,38 +364,4 @@ div#iframe-wrapper {
 .topbar-center-logo-mobile .menu-icon {
   vertical-align: text-top;
 }
-
-
-/*.title-bar-title h3 {
-  color: white;
-  padding-right: 60px;
-  padding-left: 40px;
-}
-
-.top-bar-right a  {
-  color: white;
-}
-
-.grid-x, .grid-margin-x {
-  background-color: black;
-}
-
-.grid-container {
-  max-width: inherit;
-  z-index: 5;
-  position: fixed;
-}
-
-@media screen and (max-width: 39.9375em) {
-  .topbar-center-logo .top-bar-center {
-    display: none;
-  }
-}
-
-
-.topbar-center-logo-mobile .menu-icon {
-  vertical-align: text-top;
-}*/
-
-
 /*End Navigation*/
